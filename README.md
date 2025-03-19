@@ -30,4 +30,5 @@ dependencies {
         app:iconSrc="@drawable/ic_person"
         app:inputType="text"/>
 ```
-
+# Preview :
+![Image](https://github.com/user-attachments/assets/7a8d648e-9da0-43df-a077-47fcdf15fdd1)
