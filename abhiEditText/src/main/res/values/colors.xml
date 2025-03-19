@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e0e0e0</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#fff</color>
+    <color name="background">#F2F9FF</color>
+
+    <color name="white">#fff</color>
+    <color name="zblack">#000</color>
+    <color name="light_gray">#DADADA</color>
+    <color name="gray">#CAC9C9</color>
+    <color name="clickBtn">#2196F3</color>
+
+    <color name="red">#FF0004</color>
+    <color name="mid_red">#80FF0004</color>
+    <color name="light_red">#1AFF0004</color>
+
+
+    <color name="lg_green">#DCFFFC</color>
+
+    <color name="lightgreen">#fffafa</color>
+
+    <color name="black_opacity60">#99000000</color>
+
+    <color name="textGrayColor">#6B6B6B</color>
+    <color name="black_color">#000000</color>
+
+    <color name="enabled_color">#000000</color>
+    <color name="disabled_color">#000000</color>
+
+    <!--• = \u2022,   ● = \u25CF,   ○ = \u25CB,   ▪ = \u25AA,   ■ = \u25A0,   □ = \u25A1,   ► = \u25BA-->
+
+
+    <color name="fab">#9BC0FF</color>
+    <color name="transparent_white">#4DFFFFFF</color>
+    <color name="button">#5290eb</color>
+    <color name="light_button">#96C0FF</color>
+    <color name="dark_blue">#0050C6</color>
+    <color name="light_blue">#335290EB</color>
+    <color name="sky_blue">#4acace</color>
+    <color name="ultra_light_blue">#1A5290EB</color>
+    <color name="hint">#808080</color>
+    <color name="orange">#BF360C</color>
+    <color name="yellow">#F9A825</color>
+    <color name="green">#3DBD47</color>
+    <color name="orangeBtn">#ff6c39</color>
+    <color name="gray_dark">#4D000000</color>
+    <color name="light_green">#1A1B5E20</color>
+    <color name="transparent">#001B5E20</color>
+</resources>

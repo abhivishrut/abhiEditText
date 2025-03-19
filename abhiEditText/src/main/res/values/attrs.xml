@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="abhiEditText">
+        <attr name="headingText" format="string" />
+        <attr name="hintText" format="string" />
+        <attr name="iconSrc" format="reference" />
+        <attr name="inputType" format="enum">
+            <enum name="text" value="1" />
+            <enum name="number" value="2" />
+            <enum name="email" value="3" />
+            <enum name="password" value="4" />
+            <enum name="phone" value="5" />
+            <enum name="date" value="6" />
+            <enum name="time" value="7" />
+            <enum name="multilineText" value="8" />
+            <enum name="decimalNumber" value="9" />
+            <enum name="textCapSentences" value="10" />
+            <enum name="textCapWords" value="11" />
+            <enum name="textAutoCorrect" value="12" />
+            <enum name="textNoSuggestions" value="13" />
+            <enum name="textImeMultiLine" value="14" />
+            <enum name="textShortcut" value="15" />
+        </attr>
+    </declare-styleable>
+</resources>
