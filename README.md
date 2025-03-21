@@ -1,5 +1,9 @@
-# Dependency: abhiEditText v-1.0.2
-Integrate the abhiEditText library to easily create customizable EditText components in your Android app. This library enhances the standard EditText with features like headings, hints, icons, and support for various input types (text, number, email, password, etc.). Simply add the dependency, use the component in your layouts, and enjoy a consistent, reusable input field solution.
+# abhiEditText - Customizable Android EditText with Dynamic Features
+
+AbhiEditText is an advanced **Android EditText library** that allows dynamic customization of
+*hint text, heading, icons, and input type* directly via XML. Designed for **Material Design**,
+it simplifies user input fields with a beautiful UI.
+
 > Step 1. Add the JitPack repository to your build file.
 ```gradle
 dependencyResolutionManagement {
